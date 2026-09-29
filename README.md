@@ -1,6 +1,6 @@
 # LocalGig
 
-LocalGig connects clients with freelancers(students) for micro-tasks.
+LocalGig is a platform connecting clients with local workers(students).
 
 ## Main Features
 
