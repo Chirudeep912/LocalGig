@@ -24,5 +24,4 @@ LocalGig supports two primary roles:
 
 * Client - posts and manages gigs
 * Worker - browses and applies for gigs
-LocalGig is a freelance micro-task marketplace.
 
