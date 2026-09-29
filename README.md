@@ -1,7 +1,6 @@
 # LocalGig
 
-LocalGig is a platform connecting clients with local workers(students).
-
+LocalGig is a freelance micro-task marketplace that connects clients with local workers and freelancers.
 ## Main Features
 
 * User Registration and Login
