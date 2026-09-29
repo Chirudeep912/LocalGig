@@ -16,3 +16,13 @@ def create_gig(title, description, budget):
 
 def get_gigs():
     return gigs
+
+
+def search_gigs(keyword):
+    results = []
+
+    for gig in gigs:
+        if keyword.lower() in gig["title"].lower():
+            results.append(gig)
+
+    return results
