@@ -18,3 +18,9 @@ LocalGig is a freelance micro-task marketplace that connects clients with worker
 ## Project Goal
 
 To provide a platform where clients can post gigs and workers can find and apply for suitable opportunities.
+
+## User Roles
+
+LocalGig supports two primary roles:
+- Client - posts and manages gigs
+- Worker - browses and applies for gigs
