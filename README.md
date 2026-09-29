@@ -1,7 +1,7 @@
 # LocalGig
 LocalGig is a freelance micro-task marketplace that connects clients with workers for local services and freelance tasks.
 
-# Main Features
+## Main Features
 - User Registration and Login
 - User Profile Management
 - Gig Posting and Management
@@ -13,5 +13,5 @@ LocalGig is a freelance micro-task marketplace that connects clients with worker
 - Ratings and Reviews
 - Notifications
 
-# Project Goal
+## Project Goal
 To provide a platform where clients can post gigs and workers can find and apply for suitable opportunities.
