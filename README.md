@@ -1,6 +1,6 @@
 # LocalGig
 
-LocalGig is a platform connecting clients with the students with the collage campus.
+LocalGig connects clients with freelancers(students) for micro-tasks.
 
 ## Main Features
 
